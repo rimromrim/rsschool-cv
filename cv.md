@@ -21,3 +21,4 @@ I worked for 4 years at a factory and at the same time dealt with cryptocurrenci
 Education: Bachelor of Physics Faculty, majoring in Biotechnical Systems and Technologies
 ******
 My level of English is A1
+******
