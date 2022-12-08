@@ -1,15 +1,15 @@
 #Semyon Pirogov#
 
-*****
+
 ####cemen12532@gmail.com####
 
 
 I want to become a developer
-*****
+
 
 
 I make simulators in html academy
-*****
+
 
 
 Here is an example of my code:
@@ -21,16 +21,16 @@ Here is an example of my code:
   let clear = dirty - dirty * precent;
   return clear;
 };**
-*****
+
 
 
 I worked for 4 years at a factory and at the same time dealt with cryptocurrencies.
-******
+
 
 
 Education: Bachelor of Physics Faculty, majoring in Biotechnical Systems and Technologies
-******
+
 
 
 My level of English is A1
-******
+
