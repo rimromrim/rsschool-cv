@@ -7,7 +7,7 @@
 - GitHub: rimromrim
 - Telegram: @rimromrim
 ### About me ###
-I want to become a developer.
+I am 27 years old and I want to be a developer.
 ### Example of my code: ###
 ```
 let calculateSalary = function (dirty) {
