@@ -1,5 +1,5 @@
 html {
-  scroll-behavior: cmooth;
+  scroll-behavior: smooth;
 }
 body {
   margin: 0;
@@ -12,36 +12,37 @@ body {
   color: rgb(0, 0, 0);
   background-color: rgb(238, 231, 218);
 }
+.header {
+  background-color: rgb(84, 154, 72);
+}
 .container {
   max-width: 1440px;
   margin: 0 auto;
+  padding: 1rem;
 }
 .nav-list {
-  list-style: none;
   display: flex;
-  justify-content: center;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  list-style: none;
+
 }
 .nav-link {
-  padding: 0 20px;
+  padding: 10px 30px;
   line-height: 50px;
   text-decoration: none;
-  color: rgb(45, 40, 50);
+  color: rgb(0, 0, 0);
   font-size: 20px;
   transition: 0.3s;
 }
 .nav-link:hover {
-  color: rgb(216, 20, 33);
-  text-decoration: underline;
+  background-color: rgb(255, 192, 4);
 }
 .main {
   margin: auto;
   background-color: rgb(255, 255, 255);
   box-shadow: 10px 10px 50px 5px rgb(167, 162, 162);
-  padding: 2rem;
   max-width: 1024px;
-}
-.section {
-  width: 50%;
 }
 @media (max-width: 768px) {
   .section {
@@ -52,6 +53,9 @@ body {
   width: 350px;
   height: 350px;
   border-radius: 100%;
+}
+.section-title {
+  background-color: rgb(151, 210, 140);
 }
 .icon-git {
   width: 60px;
