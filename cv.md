@@ -20,7 +20,7 @@ let calculateSalary = function (dirty) {
 };
 ```
 ### About my past job: ###
-I worked for 4 years at a factory and at the same time dealt with cryptocurrencies.
+I worked for 4 years at a factory.
 ### Education: ###
 Bachelor of Physics Faculty, majoring in Biotechnical Systems and Technologies
 ### Languages: ###
