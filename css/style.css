@@ -1,5 +1,5 @@
 html {
-  scroll-behavior: cmooth;
+  scroll-behavior: smooth;
 }
 body {
   margin: 0;
@@ -9,49 +9,31 @@ body {
   font-size: 18px;
   font-weight: 400;
   line-height: 1.5;
-  color: rgb(0, 0, 0);
+  color: rgb(30, 30, 30);
   background-color: rgb(238, 231, 218);
 }
-.container {
-  max-width: 1440px;
-  margin: 0 auto;
-}
-.nav-list {
-  list-style: none;
-  display: flex;
-  justify-content: center;
-}
-.nav-link {
-  padding: 0 20px;
-  line-height: 50px;
-  text-decoration: none;
-  color: rgb(45, 40, 50);
-  font-size: 20px;
-  transition: 0.3s;
-}
-.nav-link:hover {
-  color: rgb(216, 20, 33);
-  text-decoration: underline;
-}
 .main {
+  display: flex;
   margin: auto;
-  background-color: rgb(255, 255, 255);
-  box-shadow: 10px 10px 50px 5px rgb(167, 162, 162);
-  padding: 2rem;
+  background-color: rgb(251, 249, 249);
+  box-shadow: 0px 0px 50px 0px rgba(0, 0, 0, 0.253);
   max-width: 1024px;
 }
-.section {
-  width: 50%;
+.container {
+  max-width: 440px;
+  background-color: rgb(87, 87, 87);
+  color: rgb(234, 232, 232);
+  padding: 10px;
 }
-@media (max-width: 768px) {
-  .section {
-    width: 100%;
-  }
+.second-container {
+  padding: 10px;
 }
 .avatar {
-  width: 350px;
-  height: 350px;
-  border-radius: 100%;
+  max-width: 300px;
+  max-width: 300px;
+}
+.section-title {
+  border-bottom: 3px solid rgb(133, 133, 133);
 }
 .icon-git {
   width: 60px;
@@ -64,4 +46,7 @@ body {
 .footer {
   display: flex;
   justify-content: space-around;
+  margin: auto;
+  max-width: 1024px;
+  background-color: rgb(251, 249, 249);
 }
